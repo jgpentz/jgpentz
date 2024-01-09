@@ -22,4 +22,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/c/" target="_blank"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" width="40" height="40"/></a>
+<a href="https://go.dev/"><img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/go.svg" width="40" height="40"/></a>
 <a href=""><img src="" width="40" height="40"/></a>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jgpentz&show_icons=true&locale=en&theme=vue&hide=prs,issues" alt="jgpentz" /></p>
