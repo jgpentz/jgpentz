@@ -1,19 +1,6 @@
-### Hi there 👋
+## Hi there 👋, I'm Jimmy
 
-<!--
-**jgpentz/jgpentz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### A software engineer with a background in embedded systems, curious about natural language processing and machine learning
 
 - 🔭 I’m currently working on **nand2tetris**, and creating an **interpreter in Go**
   
@@ -26,3 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: jpentz1@gmail.com
   
 - ⚡ Neovim power user
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/jimmy-pentz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jimmy-pentz" height="30" width="40" /></a>
+</p>
