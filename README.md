@@ -25,4 +25,5 @@
 <a href="https://go.dev/"><img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/go.svg" width="40" height="40"/></a>
 <a href=""><img src="" width="40" height="40"/></a>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jgpentz&show_icons=true&locale=en&langs_count=7&layout=compact&theme=vue&hide=html,scss,css" alt="jgpentz" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jgpentz&show_icons=true&locale=en&theme=vue&hide=prs,issues" alt="jgpentz" /></p>
