@@ -6,7 +6,7 @@
   
 - 🌱 I’m currently learning **algorithms, Go, and machine learning**
   
-- 🖥️ You can find all of my code at: [https://github.com/jgpentz)](https://github.com/jgpentz)
+- 🖥️ You can find all of my code at: [https://github.com/jgpentz](https://github.com/jgpentz)
   
 - 💬 Ask me about **Japanese, embedded sytems, machine learning**
   
