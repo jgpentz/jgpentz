@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **nand2tetris**, and creating an **interpreter in Go**
   
-- 🌱 I’m currently learning **algorithms, Go, and machine learning**
+- 🌱 I’m currently learning **algorithms and Go**
   
 - 🖥️ You can find all of my code at: [https://github.com/jgpentz](https://github.com/jgpentz)
   
