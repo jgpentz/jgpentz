@@ -8,7 +8,7 @@
   
 - 🖥️ You can find all of my code at: [https://github.com/jgpentz](https://github.com/jgpentz)
   
-- 💬 Ask me about **Japanese, embedded sytems, machine learning**
+- 💬 Ask me about **Japanese, embedded sytems, Neovim**
   
 - 📫 How to reach me: jpentz1@gmail.com
   
