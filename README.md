@@ -2,7 +2,7 @@
 
 <h3 align="center">A software engineer with a background in embedded systems, curious about natural language processing (NLP) and machine learning</h3>
 
-- 🔭 I’m currently working on **nand2tetris**, and creating an **interpreter in Go**
+- 🔭 I’m currently working on **Learning Go**, and creating an **interpreter in Go**
   
 - 🌱 I’m currently learning **algorithms and Go**
   
