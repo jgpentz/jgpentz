@@ -2,9 +2,9 @@
 
 <h3 align="center">A software engineer with a background in embedded systems</h3>
 
-- 🔭 I’m currently working on **Advent of Code**, and creating an **interpreter in Go**
+- 🔭 I’m currently working on a **web app for plotting RF data**, and creating an **interpreter in Go**
   
-- 🌱 I’m currently learning **algorithms and Go**
+- 🌱 I’m currently learning **FE/BE and Go**
   
 - 🖥️ You can find all of my code at: [https://github.com/jgpentz](https://github.com/jgpentz)
   
