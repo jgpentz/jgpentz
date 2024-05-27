@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋, I'm Jimmy</h1>
 
-<h3 align="center">A software engineer with a background in embedded systems, curious about natural language processing (NLP) and machine learning</h3>
+<h3 align="center">A software engineer with a background in embedded systems</h3>
 
 - 🔭 I’m currently working on **Advent of Code**, and creating an **interpreter in Go**
   
