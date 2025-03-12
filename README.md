@@ -2,9 +2,9 @@
 
 <h3 align="center">A network engineer with a background in embedded systems</h3>
 
-- 🔭 I’m currently working on a **web app for plotting RF data**, and creating an **interpreter in Go**
+- 🔭 I’m currently working on building out my personal website on a VPS.
   
-- 🌱 I’m currentlytaking a class in **linux system admin** and building out my personal site on a VPS.
+- 🌱 I’m currently taking a class in **linux system admin**.
   
 - 🖥️ You can find all of my code at: [https://github.com/jgpentz](https://github.com/jgpentz)
   
