@@ -12,8 +12,6 @@
   
 - 📫 How to reach me: jpentz1@gmail.com
   
-- ⚡ Neovim power user
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jimmypentz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jimmy-pentz" height="30" width="40" /></a>
