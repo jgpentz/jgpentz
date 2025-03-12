@@ -1,14 +1,14 @@
 <h1 align="center"> Hi there 👋, I'm Jimmy</h1>
 
-<h3 align="center">A software engineer with a background in embedded systems</h3>
+<h3 align="center">A network engineer with a background in embedded systems</h3>
 
 - 🔭 I’m currently working on a **web app for plotting RF data**, and creating an **interpreter in Go**
   
-- 🌱 I’m currently learning **FE/BE and Go**
+- 🌱 I’m currentlytaking a class in **linux system admin** and building out my personal site on a VPS.
   
 - 🖥️ You can find all of my code at: [https://github.com/jgpentz](https://github.com/jgpentz)
   
-- 💬 Ask me about **Japanese, front-end/back-end architecture, DSA, embedded systems, Neovim**
+- 💬 Ask me about **Japanese, network engineering, Python, data structures/algorithms, embedded systems, Neovim**
   
 - 📫 How to reach me: jpentz1@gmail.com
   
