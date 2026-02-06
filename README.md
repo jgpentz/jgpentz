@@ -1,16 +1,18 @@
-<h1 align="center"> Hi there 👋, I'm Jimmy</h1>
+<h1 align="center"> Hi there 👋 I'm Jimmy</h1>
 
 <h3 align="center">A network engineer with a background in embedded systems</h3>
 
-- 🔭 I’m currently working on building out my personal website on a VPS.
+- 🔭 I’m currently working on school related automation projects and building out my homelab.
   
-- 🌱 I’m currently taking a class in **linux system admin**.
+- 🌱 I’m currently taking a classes in **Network Management and Automation** and **IP Routing Protocols**.
   
 - 🖥️ You can find all of my code at: [https://github.com/jgpentz](https://github.com/jgpentz)
   
 - 💬 Ask me about **Japanese, network engineering, Python, data structures/algorithms, embedded systems, Neovim**
   
 - 📫 How to reach me: jpentz1@gmail.com
+
+- ✍️ Visit my blog at [https://jimmys.place](https://jimmys.place)
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
