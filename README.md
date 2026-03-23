@@ -8,7 +8,7 @@
   
 - 🖥️ You can find all of my code at: [https://github.com/jgpentz](https://github.com/jgpentz)
   
-- 💬 Ask me about **Japanese, network engineering, Python, data structures/algorithms, embedded systems, Neovim**
+- 💬 Ask me about **Japanese, network engineering, Python, data structures/algorithms, embedded systems**
   
 - 📫 How to reach me: jpentz1@gmail.com
 
